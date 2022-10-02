@@ -5,6 +5,7 @@ import StylesButton from './components/StylesButton';
 import MuiButton from './components/Button';
 import MuiTypography from './components/Typography';
 import MuiBox from './components/Box';
+import Divider from './components/Divider';
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <MuiButton></MuiButton>
       <MuiTypography />
       <MuiBox />
+      <Divider />
     </div>
   );
 };
