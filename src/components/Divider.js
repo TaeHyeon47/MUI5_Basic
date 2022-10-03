@@ -27,7 +27,7 @@ const Divider = () => {
       </MuiDivider>
 
       <Box sx={{ display: 'flex' }}>
-        <MuiDividerå
+        <MuiDivider
           orientation='vertical'
           flexItem
           sx={{
